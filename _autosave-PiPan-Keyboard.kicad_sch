@@ -1178,7 +1178,7 @@
   (symbol (lib_id "Device:D_Small") (at 101.6 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0da355bb-421d-413f-9ef1-a551f9d4f75e)
-    (property "Reference" "D?" (id 0) (at 103.378 46.1553 90)
+    (property "Reference" "D9" (id 0) (at 103.378 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 103.378 48.6922 90)
@@ -1197,7 +1197,7 @@
   (symbol (lib_id "Device:D_Small") (at 157.48 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 162de02a-ea58-4518-8925-5c2353d993fc)
-    (property "Reference" "D?" (id 0) (at 159.258 46.1553 90)
+    (property "Reference" "D21" (id 0) (at 159.258 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 159.258 48.6922 90)
@@ -1235,7 +1235,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 18b31e20-cc62-4387-9e72-f1f3805c6283)
-    (property "Reference" "D?" (id 0) (at 197.358 46.1553 90)
+    (property "Reference" "D29" (id 0) (at 197.358 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 197.358 48.6922 90)
@@ -1254,7 +1254,7 @@
   (symbol (lib_id "Device:D_Small") (at 101.6 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1ebd188c-8fa1-442c-95ec-aeff578a22a9)
-    (property "Reference" "D?" (id 0) (at 103.378 86.7953 90)
+    (property "Reference" "D11" (id 0) (at 103.378 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 103.378 89.3322 90)
@@ -1292,7 +1292,7 @@
   (symbol (lib_id "Device:D_Small") (at 120.65 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 211a1048-1695-43fb-b186-a426b3dc2d7f)
-    (property "Reference" "D?" (id 0) (at 122.428 86.7953 90)
+    (property "Reference" "D15" (id 0) (at 122.428 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 122.428 89.3322 90)
@@ -1311,7 +1311,7 @@
   (symbol (lib_id "Device:D_Small") (at 214.63 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 21c64a8d-c942-4b86-836e-a015a43f9c0b)
-    (property "Reference" "D?" (id 0) (at 216.408 66.4753 90)
+    (property "Reference" "D34" (id 0) (at 216.408 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 216.408 69.0122 90)
@@ -1368,7 +1368,7 @@
   (symbol (lib_id "Device:D_Small") (at 176.53 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 26364ebc-8cb7-4bba-a911-8b9122c8faba)
-    (property "Reference" "D?" (id 0) (at 178.308 66.4753 90)
+    (property "Reference" "D26" (id 0) (at 178.308 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 178.308 69.0122 90)
@@ -1406,7 +1406,7 @@
   (symbol (lib_id "Device:D_Small") (at 63.5 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2995c700-69e7-4dc7-bd18-26e7b043f3cc)
-    (property "Reference" "D?" (id 0) (at 65.278 66.4753 90)
+    (property "Reference" "D2" (id 0) (at 65.278 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 65.278 69.0122 90)
@@ -1425,7 +1425,7 @@
   (symbol (lib_id "Device:D_Small") (at 82.55 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 29d38c84-a13e-40ea-8491-d7c1f2811a7f)
-    (property "Reference" "D?" (id 0) (at 84.328 107.1153 90)
+    (property "Reference" "D8" (id 0) (at 84.328 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 84.328 109.6522 90)
@@ -1482,7 +1482,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2e80fb67-ad85-4627-8da1-7b8904b9311a)
-    (property "Reference" "D?" (id 0) (at 197.358 66.4753 90)
+    (property "Reference" "D30" (id 0) (at 197.358 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 197.358 69.0122 90)
@@ -1520,7 +1520,7 @@
   (symbol (lib_id "Device:D_Small") (at 82.55 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 34762755-a196-4c2c-94d3-481310afe8d7)
-    (property "Reference" "D?" (id 0) (at 84.328 66.4753 90)
+    (property "Reference" "D6" (id 0) (at 84.328 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 84.328 69.0122 90)
@@ -1539,7 +1539,7 @@
   (symbol (lib_id "Device:D_Small") (at 82.55 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3522eed6-2412-4d51-bc43-afa8ed6617b7)
-    (property "Reference" "D?" (id 0) (at 84.328 86.7953 90)
+    (property "Reference" "D7" (id 0) (at 84.328 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 84.328 89.3322 90)
@@ -1615,7 +1615,7 @@
   (symbol (lib_id "Device:D_Small") (at 138.43 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3f7e1f23-956b-4740-9f71-ac6a7749cea0)
-    (property "Reference" "D?" (id 0) (at 140.208 86.7953 90)
+    (property "Reference" "D19" (id 0) (at 140.208 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 140.208 89.3322 90)
@@ -1634,7 +1634,7 @@
   (symbol (lib_id "Device:D_Small") (at 101.6 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 450edbc7-1e7f-436a-a6f8-7935212d16c1)
-    (property "Reference" "D?" (id 0) (at 103.378 66.4753 90)
+    (property "Reference" "D10" (id 0) (at 103.378 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 103.378 69.0122 90)
@@ -1653,7 +1653,7 @@
   (symbol (lib_id "Device:D_Small") (at 233.68 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4534f250-216b-46fd-8dbd-f5ee742ee603)
-    (property "Reference" "D?" (id 0) (at 235.458 46.1553 90)
+    (property "Reference" "D37" (id 0) (at 235.458 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 235.458 48.6922 90)
@@ -1710,7 +1710,7 @@
   (symbol (lib_id "Device:D_Small") (at 120.65 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4c076f10-79d1-4149-900b-f40bf9c211da)
-    (property "Reference" "D?" (id 0) (at 122.428 66.4753 90)
+    (property "Reference" "D14" (id 0) (at 122.428 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 122.428 69.0122 90)
@@ -1729,7 +1729,7 @@
   (symbol (lib_id "Device:D_Small") (at 138.43 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 51125b3b-2de0-4e39-b432-a6e5b6f6219c)
-    (property "Reference" "D?" (id 0) (at 140.208 66.4753 90)
+    (property "Reference" "D18" (id 0) (at 140.208 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 140.208 69.0122 90)
@@ -1786,7 +1786,7 @@
   (symbol (lib_id "Device:D_Small") (at 176.53 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 581eda4d-eeef-4e69-8c88-174e905f82a6)
-    (property "Reference" "D?" (id 0) (at 178.308 107.1153 90)
+    (property "Reference" "D28" (id 0) (at 178.308 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 178.308 109.6522 90)
@@ -1805,7 +1805,7 @@
   (symbol (lib_id "Device:D_Small") (at 157.48 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5c18655c-3218-4529-b726-73b2090e5103)
-    (property "Reference" "D?" (id 0) (at 159.258 66.4753 90)
+    (property "Reference" "D22" (id 0) (at 159.258 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 159.258 69.0122 90)
@@ -1862,7 +1862,7 @@
   (symbol (lib_id "Device:D_Small") (at 157.48 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 62081cf9-5119-41b1-8fe5-4caa83c7677d)
-    (property "Reference" "D?" (id 0) (at 159.258 86.7953 90)
+    (property "Reference" "D23" (id 0) (at 159.258 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 159.258 89.3322 90)
@@ -1881,7 +1881,7 @@
   (symbol (lib_id "Device:D_Small") (at 233.68 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6889aa6b-1c46-48e3-829d-f5c39875967d)
-    (property "Reference" "D?" (id 0) (at 235.458 86.7953 90)
+    (property "Reference" "D39" (id 0) (at 235.458 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 235.458 89.3322 90)
@@ -1900,7 +1900,7 @@
   (symbol (lib_id "Device:D_Small") (at 252.73 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6a69366a-4ec0-471d-9b05-652c58b45310)
-    (property "Reference" "D?" (id 0) (at 254.508 107.1153 90)
+    (property "Reference" "D44" (id 0) (at 254.508 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 254.508 109.6522 90)
@@ -1919,7 +1919,7 @@
   (symbol (lib_id "Device:D_Small") (at 138.43 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 708a1780-5268-453b-85f1-cffef8636168)
-    (property "Reference" "D?" (id 0) (at 140.208 46.1553 90)
+    (property "Reference" "D17" (id 0) (at 140.208 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 140.208 48.6922 90)
@@ -1957,7 +1957,7 @@
   (symbol (lib_id "Device:D_Small") (at 101.6 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 723d422f-485f-4073-86ff-339b0d7b69f1)
-    (property "Reference" "D?" (id 0) (at 103.378 107.1153 90)
+    (property "Reference" "D12" (id 0) (at 103.378 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 103.378 109.6522 90)
@@ -1976,7 +1976,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 725fe56b-3bc0-4989-989b-d2109140bb21)
-    (property "Reference" "D?" (id 0) (at 197.358 107.1153 90)
+    (property "Reference" "D32" (id 0) (at 197.358 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 197.358 109.6522 90)
@@ -2014,7 +2014,7 @@
   (symbol (lib_id "Device:D_Small") (at 252.73 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7cfb8f39-ab5e-4a86-9809-d44b091ddfb2)
-    (property "Reference" "D?" (id 0) (at 254.508 86.7953 90)
+    (property "Reference" "D43" (id 0) (at 254.508 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 254.508 89.3322 90)
@@ -2071,7 +2071,7 @@
   (symbol (lib_id "Device:D_Small") (at 176.53 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 896b8c36-5cea-474c-92cc-60a80af2cbfc)
-    (property "Reference" "D?" (id 0) (at 178.308 86.7953 90)
+    (property "Reference" "D27" (id 0) (at 178.308 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 178.308 89.3322 90)
@@ -2147,7 +2147,7 @@
   (symbol (lib_id "Device:D_Small") (at 157.48 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9918b9c5-915a-44e9-8762-5a294f3996be)
-    (property "Reference" "D?" (id 0) (at 159.258 107.1153 90)
+    (property "Reference" "D24" (id 0) (at 159.258 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 159.258 109.6522 90)
@@ -2185,7 +2185,7 @@
   (symbol (lib_id "Device:D_Small") (at 214.63 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9df2d443-ba79-4a41-aa9a-36a9584f2cbb)
-    (property "Reference" "D?" (id 0) (at 216.408 86.7953 90)
+    (property "Reference" "D35" (id 0) (at 216.408 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 216.408 89.3322 90)
@@ -2223,7 +2223,7 @@
   (symbol (lib_id "Device:D_Small") (at 195.58 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a2556f53-3d53-4c83-b4b9-9985bd512f63)
-    (property "Reference" "D?" (id 0) (at 197.358 86.7953 90)
+    (property "Reference" "D31" (id 0) (at 197.358 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 197.358 89.3322 90)
@@ -2242,7 +2242,7 @@
   (symbol (lib_id "Device:D_Small") (at 82.55 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a33a8611-e3ae-4f0a-a336-f28972140caf)
-    (property "Reference" "D?" (id 0) (at 84.328 46.1553 90)
+    (property "Reference" "D5" (id 0) (at 84.328 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 84.328 48.6922 90)
@@ -2280,7 +2280,7 @@
   (symbol (lib_id "Device:D_Small") (at 233.68 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid af0efbde-580e-4c96-8e84-bcdf3c9096d2)
-    (property "Reference" "D?" (id 0) (at 235.458 66.4753 90)
+    (property "Reference" "D38" (id 0) (at 235.458 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 235.458 69.0122 90)
@@ -2299,7 +2299,7 @@
   (symbol (lib_id "Device:D_Small") (at 214.63 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid af1ce2f2-7783-4580-9c4b-631ee8df4a78)
-    (property "Reference" "D?" (id 0) (at 216.408 46.1553 90)
+    (property "Reference" "D33" (id 0) (at 216.408 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 216.408 48.6922 90)
@@ -2356,7 +2356,7 @@
   (symbol (lib_id "Device:D_Small") (at 63.5 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b73e6a3e-cfae-41ec-9436-4008c8a24883)
-    (property "Reference" "D?" (id 0) (at 65.278 107.1153 90)
+    (property "Reference" "D4" (id 0) (at 65.278 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 65.278 109.6522 90)
@@ -2375,7 +2375,7 @@
   (symbol (lib_id "MCU_RaspberryPi_and_Boards:Pico") (at 105.41 154.94 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b77bdf3a-e70d-4988-b1af-8cf235352696)
-    (property "Reference" "U?" (id 0) (at 105.41 183.5134 0))
+    (property "Reference" "U1" (id 0) (at 105.41 183.5134 0))
     (property "Value" "Pico" (id 1) (at 105.41 186.0503 0))
     (property "Footprint" "RPi_Pico:RPi_Pico_SMD_TH" (id 2) (at 105.41 154.94 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -2431,7 +2431,7 @@
   (symbol (lib_id "Device:D_Small") (at 252.73 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c0bf1d48-f513-465b-ab09-da98e5abf1a3)
-    (property "Reference" "D?" (id 0) (at 254.508 66.4753 90)
+    (property "Reference" "D42" (id 0) (at 254.508 66.4753 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 254.508 69.0122 90)
@@ -2469,7 +2469,7 @@
   (symbol (lib_id "Device:D_Small") (at 63.5 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c3545a77-0bf4-4e29-97ba-4e19febf1fb1)
-    (property "Reference" "D?" (id 0) (at 65.278 46.1553 90)
+    (property "Reference" "D1" (id 0) (at 65.278 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 65.278 48.6922 90)
@@ -2545,7 +2545,7 @@
   (symbol (lib_id "Device:D_Small") (at 63.5 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ca9886cf-bd07-43f5-a054-ad5647199b0a)
-    (property "Reference" "D?" (id 0) (at 65.278 86.7953 90)
+    (property "Reference" "D3" (id 0) (at 65.278 86.7953 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 65.278 89.3322 90)
@@ -2564,7 +2564,7 @@
   (symbol (lib_id "Device:D_Small") (at 214.63 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cb44e782-88d1-423a-a754-5fbe2d684412)
-    (property "Reference" "D?" (id 0) (at 216.408 107.1153 90)
+    (property "Reference" "D36" (id 0) (at 216.408 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 216.408 109.6522 90)
@@ -2583,7 +2583,7 @@
   (symbol (lib_id "Device:D_Small") (at 120.65 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf4c83e7-3d74-4431-a9e5-058108a2a5dc)
-    (property "Reference" "D?" (id 0) (at 122.428 46.1553 90)
+    (property "Reference" "D13" (id 0) (at 122.428 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 122.428 48.6922 90)
@@ -2602,7 +2602,7 @@
   (symbol (lib_id "Device:D_Small") (at 252.73 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cfa5f1a7-1a1a-4e8a-b006-2ea0c7d93b17)
-    (property "Reference" "D?" (id 0) (at 254.508 46.1553 90)
+    (property "Reference" "D41" (id 0) (at 254.508 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 254.508 48.6922 90)
@@ -2621,7 +2621,7 @@
   (symbol (lib_id "Device:D_Small") (at 176.53 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d3537aa3-1f5c-4d24-82b8-a946173a73cf)
-    (property "Reference" "D?" (id 0) (at 178.308 46.1553 90)
+    (property "Reference" "D25" (id 0) (at 178.308 46.1553 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 178.308 48.6922 90)
@@ -2640,7 +2640,7 @@
   (symbol (lib_id "Device:D_Small") (at 120.65 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d365d6a1-90b1-46eb-9bef-787d61ee0082)
-    (property "Reference" "D?" (id 0) (at 122.428 107.1153 90)
+    (property "Reference" "D16" (id 0) (at 122.428 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 122.428 109.6522 90)
@@ -2735,7 +2735,7 @@
   (symbol (lib_id "Device:D_Small") (at 138.43 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dbac8f17-9f73-4881-86e5-06c20747becb)
-    (property "Reference" "D?" (id 0) (at 140.208 107.1153 90)
+    (property "Reference" "D20" (id 0) (at 140.208 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 140.208 109.6522 90)
@@ -2773,7 +2773,7 @@
   (symbol (lib_id "Device:D_Small") (at 233.68 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e2aae377-a9d8-4dc8-b705-799110c6a74b)
-    (property "Reference" "D?" (id 0) (at 235.458 107.1153 90)
+    (property "Reference" "D40" (id 0) (at 235.458 107.1153 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (id 1) (at 235.458 109.6522 90)
@@ -2908,137 +2908,137 @@
   )
 
   (symbol_instances
-    (path "/0da355bb-421d-413f-9ef1-a551f9d4f75e"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/162de02a-ea58-4518-8925-5c2353d993fc"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/18b31e20-cc62-4387-9e72-f1f3805c6283"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/1ebd188c-8fa1-442c-95ec-aeff578a22a9"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/211a1048-1695-43fb-b186-a426b3dc2d7f"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/21c64a8d-c942-4b86-836e-a015a43f9c0b"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/26364ebc-8cb7-4bba-a911-8b9122c8faba"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+    (path "/c3545a77-0bf4-4e29-97ba-4e19febf1fb1"
+      (reference "D1") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/2995c700-69e7-4dc7-bd18-26e7b043f3cc"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/29d38c84-a13e-40ea-8491-d7c1f2811a7f"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/2e80fb67-ad85-4627-8da1-7b8904b9311a"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/34762755-a196-4c2c-94d3-481310afe8d7"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/3522eed6-2412-4d51-bc43-afa8ed6617b7"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/3f7e1f23-956b-4740-9f71-ac6a7749cea0"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/450edbc7-1e7f-436a-a6f8-7935212d16c1"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/4534f250-216b-46fd-8dbd-f5ee742ee603"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/4c076f10-79d1-4149-900b-f40bf9c211da"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/51125b3b-2de0-4e39-b432-a6e5b6f6219c"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/581eda4d-eeef-4e69-8c88-174e905f82a6"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/5c18655c-3218-4529-b726-73b2090e5103"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/62081cf9-5119-41b1-8fe5-4caa83c7677d"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/6889aa6b-1c46-48e3-829d-f5c39875967d"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/6a69366a-4ec0-471d-9b05-652c58b45310"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/708a1780-5268-453b-85f1-cffef8636168"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/723d422f-485f-4073-86ff-339b0d7b69f1"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/725fe56b-3bc0-4989-989b-d2109140bb21"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/7cfb8f39-ab5e-4a86-9809-d44b091ddfb2"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/896b8c36-5cea-474c-92cc-60a80af2cbfc"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/9918b9c5-915a-44e9-8762-5a294f3996be"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/9df2d443-ba79-4a41-aa9a-36a9584f2cbb"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/a2556f53-3d53-4c83-b4b9-9985bd512f63"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/a33a8611-e3ae-4f0a-a336-f28972140caf"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/af0efbde-580e-4c96-8e84-bcdf3c9096d2"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/af1ce2f2-7783-4580-9c4b-631ee8df4a78"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/b73e6a3e-cfae-41ec-9436-4008c8a24883"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/c0bf1d48-f513-465b-ab09-da98e5abf1a3"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
-    )
-    (path "/c3545a77-0bf4-4e29-97ba-4e19febf1fb1"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+      (reference "D2") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/ca9886cf-bd07-43f5-a054-ad5647199b0a"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+      (reference "D3") (unit 1) (value "D_Small") (footprint "")
     )
-    (path "/cb44e782-88d1-423a-a754-5fbe2d684412"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+    (path "/b73e6a3e-cfae-41ec-9436-4008c8a24883"
+      (reference "D4") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/a33a8611-e3ae-4f0a-a336-f28972140caf"
+      (reference "D5") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/34762755-a196-4c2c-94d3-481310afe8d7"
+      (reference "D6") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/3522eed6-2412-4d51-bc43-afa8ed6617b7"
+      (reference "D7") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/29d38c84-a13e-40ea-8491-d7c1f2811a7f"
+      (reference "D8") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/0da355bb-421d-413f-9ef1-a551f9d4f75e"
+      (reference "D9") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/450edbc7-1e7f-436a-a6f8-7935212d16c1"
+      (reference "D10") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/1ebd188c-8fa1-442c-95ec-aeff578a22a9"
+      (reference "D11") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/723d422f-485f-4073-86ff-339b0d7b69f1"
+      (reference "D12") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/cf4c83e7-3d74-4431-a9e5-058108a2a5dc"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+      (reference "D13") (unit 1) (value "D_Small") (footprint "")
     )
-    (path "/cfa5f1a7-1a1a-4e8a-b006-2ea0c7d93b17"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+    (path "/4c076f10-79d1-4149-900b-f40bf9c211da"
+      (reference "D14") (unit 1) (value "D_Small") (footprint "")
     )
-    (path "/d3537aa3-1f5c-4d24-82b8-a946173a73cf"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+    (path "/211a1048-1695-43fb-b186-a426b3dc2d7f"
+      (reference "D15") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/d365d6a1-90b1-46eb-9bef-787d61ee0082"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+      (reference "D16") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/708a1780-5268-453b-85f1-cffef8636168"
+      (reference "D17") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/51125b3b-2de0-4e39-b432-a6e5b6f6219c"
+      (reference "D18") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/3f7e1f23-956b-4740-9f71-ac6a7749cea0"
+      (reference "D19") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/dbac8f17-9f73-4881-86e5-06c20747becb"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+      (reference "D20") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/162de02a-ea58-4518-8925-5c2353d993fc"
+      (reference "D21") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/5c18655c-3218-4529-b726-73b2090e5103"
+      (reference "D22") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/62081cf9-5119-41b1-8fe5-4caa83c7677d"
+      (reference "D23") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/9918b9c5-915a-44e9-8762-5a294f3996be"
+      (reference "D24") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/d3537aa3-1f5c-4d24-82b8-a946173a73cf"
+      (reference "D25") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/26364ebc-8cb7-4bba-a911-8b9122c8faba"
+      (reference "D26") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/896b8c36-5cea-474c-92cc-60a80af2cbfc"
+      (reference "D27") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/581eda4d-eeef-4e69-8c88-174e905f82a6"
+      (reference "D28") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/18b31e20-cc62-4387-9e72-f1f3805c6283"
+      (reference "D29") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/2e80fb67-ad85-4627-8da1-7b8904b9311a"
+      (reference "D30") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/a2556f53-3d53-4c83-b4b9-9985bd512f63"
+      (reference "D31") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/725fe56b-3bc0-4989-989b-d2109140bb21"
+      (reference "D32") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/af1ce2f2-7783-4580-9c4b-631ee8df4a78"
+      (reference "D33") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/21c64a8d-c942-4b86-836e-a015a43f9c0b"
+      (reference "D34") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/9df2d443-ba79-4a41-aa9a-36a9584f2cbb"
+      (reference "D35") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/cb44e782-88d1-423a-a754-5fbe2d684412"
+      (reference "D36") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/4534f250-216b-46fd-8dbd-f5ee742ee603"
+      (reference "D37") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/af0efbde-580e-4c96-8e84-bcdf3c9096d2"
+      (reference "D38") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/6889aa6b-1c46-48e3-829d-f5c39875967d"
+      (reference "D39") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/e2aae377-a9d8-4dc8-b705-799110c6a74b"
-      (reference "D?") (unit 1) (value "D_Small") (footprint "")
+      (reference "D40") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/cfa5f1a7-1a1a-4e8a-b006-2ea0c7d93b17"
+      (reference "D41") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/c0bf1d48-f513-465b-ab09-da98e5abf1a3"
+      (reference "D42") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/7cfb8f39-ab5e-4a86-9809-d44b091ddfb2"
+      (reference "D43") (unit 1) (value "D_Small") (footprint "")
+    )
+    (path "/6a69366a-4ec0-471d-9b05-652c58b45310"
+      (reference "D44") (unit 1) (value "D_Small") (footprint "")
     )
     (path "/71a86b91-3515-41f0-ad6b-d89a1aa8eadd"
       (reference "MX0") (unit 1) (value "MX-NoLED") (footprint "")
@@ -3173,7 +3173,7 @@
       (reference "MX43") (unit 1) (value "MX-NoLED") (footprint "")
     )
     (path "/b77bdf3a-e70d-4988-b1af-8cf235352696"
-      (reference "U?") (unit 1) (value "Pico") (footprint "RPi_Pico:RPi_Pico_SMD_TH")
+      (reference "U1") (unit 1) (value "Pico") (footprint "RPi_Pico:RPi_Pico_SMD_TH")
     )
   )
 )
