@@ -6,4 +6,6 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "Rotary_Encoder")(type "KiCad")(uri "${KIPRJMOD}/Rotary_Encoder.pretty")(options "")(descr ""))
   (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/Graphics.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "/home/calvin/KiCad-Libs/keyswitches.pretty")(options "")(descr ""))
+  (lib (name ".github")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty/.github")(options "")(descr ""))
 )
