@@ -7,3 +7,9 @@
 [submodule "digikey-kicad-library"]
 	path = digikey-kicad-library
 	url = https://github.com/Digi-Key/digikey-kicad-library
+[submodule "keyswitches.pretty"]
+	path = keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
+[submodule "kicad-keyboard-parts.pretty"]
+	path = kicad-keyboard-parts.pretty
+	url = https://github.com/ebastler/kicad-keyboard-parts.pretty
