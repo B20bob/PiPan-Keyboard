@@ -302,7 +302,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 0a14b364-c7eb-48de-8ee5-e23df9575b8d)
-    (at 265.5975 178.48375)
+    (at 290.595 188.26125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -501,7 +501,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 0da8f8b3-47b4-46cd-9a87-ebbfec2c6919)
-    (at 288.6075 159.9625)
+    (at 313.605 169.74)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -563,7 +563,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 0ef8850f-1b2b-4091-8770-373060d0c9c5)
-    (at 265.58875 145.675)
+    (at 290.58625 155.4525)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -625,7 +625,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 1155445c-5d67-45f6-ab2a-f4cafd1d9aa8)
-    (at 277.495 169.8625)
+    (at 302.4925 179.64)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -749,7 +749,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 17ba9f54-1721-4210-b799-0bd0be0aee67)
-    (at 278.9075 174.93375)
+    (at 303.905 184.71125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -886,7 +886,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 188ec694-128e-4011-ad1e-2a24c6581f71)
-    (at 278.9075 178.48375)
+    (at 303.905 188.26125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1533,7 +1533,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fd9ee0f3-3397-40f9-96cd-562f044035e7)
     )
-    (fp_text value "D_Small" (at 16.4775 33.50375) (layer "F.Fab")
+    (fp_text value "D_Small" (at 41.475 43.28125) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 14240738-5e1e-4d9a-8a08-69eac19c6c30)
     )
@@ -2488,7 +2488,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 67d1d885-cfc5-4332-8a29-fad46f7cb8fc)
-    (at 281.78125 153.19375)
+    (at 306.77875 162.97125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3346,7 +3346,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 7bacabe9-fa4e-46c0-8caf-d3ea8d472f78)
-    (at 264.795 155.575)
+    (at 289.7925 165.3525)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3620,7 +3620,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 88678e9f-2318-4dce-b38f-649f30004d53)
-    (at 281.78125 146.09375)
+    (at 306.77875 155.87125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3907,7 +3907,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 9345b74e-bc68-48f2-bdc1-1f8f63b4f30b)
-    (at 281.78125 149.64375)
+    (at 306.77875 159.42125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4168,7 +4168,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 982626e9-c0fa-4c95-9b82-0d3d71634deb)
-    (at 275.2975 159.9625)
+    (at 300.295 169.74)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4367,7 +4367,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 9f0c886f-f86f-4829-afa3-44cf60218fa9)
-    (at 288.6075 163.5125)
+    (at 313.605 173.29)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4502,7 +4502,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a8ea5b55-eb24-4f97-95b7-be6f3b7bbb8a)
     )
-    (fp_text value "D_Small" (at 77.34625 27.11) (layer "F.Fab")
+    (fp_text value "D_Small" (at 102.34375 36.8875) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 422d17e9-1cec-4073-ba30-a5f2b427563f)
     )
@@ -4915,7 +4915,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp b7bc2356-6649-4118-ab7a-63371e13f507)
-    (at 265.5975 174.93375)
+    (at 290.595 184.71125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5635,7 +5635,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp cbf188cc-146b-4f32-b9d3-96f669e83d8d)
-    (at 265.58875 149.225)
+    (at 290.58625 159.0025)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
