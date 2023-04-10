@@ -165,7 +165,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 07ee5cc1-a4a6-4995-9f65-152aff5c37c9)
-    (at 437.62 150.58875)
+    (at 200.81875 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -364,7 +364,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 0bc13bce-164e-495f-a503-e7c8204ae5b8)
-    (at 560.92625 71.37625)
+    (at 140.49375 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1010,7 +1010,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 1c89ee59-079a-4a5e-89d3-80afe10d0847)
-    (at 498.22 110.18875)
+    (at 125.4125 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1147,7 +1147,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 1e2ce6a3-4eb0-49a7-a4cd-91aa8324d248)
-    (at 478.02 130.38875)
+    (at 200.81875 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1447,7 +1447,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 29363ff1-972b-472a-888b-36d297fcd4bc)
-    (at 542.5 69.78875)
+    (at 185.7375 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1858,7 +1858,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 41fa54aa-f48b-4a22-9d3e-3a12604d21ea)
-    (at 478.02 89.98875)
+    (at 110.33125 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1995,7 +1995,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 4d23b478-aa00-45d2-9caf-e1e6d3e91552)
-    (at 421.3 69.78875)
+    (at 215.9 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -2550,7 +2550,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 69a76e38-22ea-4926-89ce-59062c3108d3)
-    (at 457.82 89.98875)
+    (at 125.4125 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3271,7 +3271,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 733f4150-bb7f-4fca-af55-49571325cb04)
-    (at 502.1 49.58875)
+    (at 215.9 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3682,7 +3682,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 895614a2-fa95-47b4-a784-786c5d317172)
-    (at 581.12625 91.57625)
+    (at 170.65625 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4031,7 +4031,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 95769ba4-ebf5-43f7-8af7-549998002b3c)
-    (at 461.7 69.78875)
+    (at 95.25 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4553,7 +4553,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp a4fbef94-b0eb-4bd1-83f0-4bc90064f96e)
-    (at 401.1 49.58875)
+    (at 155.575 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4628,7 +4628,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp a5566799-96e3-401f-b4f8-8691f07a3c48)
-    (at 417.42 130.38875)
+    (at 140.49375 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4703,7 +4703,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp a5f9901a-5b49-44e3-b417-d9c7d987e595)
-    (at 461.7 49.58875)
+    (at 185.7375 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5198,7 +5198,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp bfa3da4f-7b6e-4dea-b81c-3deb59ac4a9e)
-    (at 518.42 89.98875)
+    (at 230.98125 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5273,7 +5273,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp c1bf85a7-d9d5-4dd7-8230-8c64b59ee232)
-    (at 457.82 150.58875)
+    (at 246.0625 78.58125)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5485,7 +5485,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp ca4ef0e1-3422-4719-b63c-bae9ceb0c2ba)
-    (at 417.42 110.18875)
+    (at 170.65625 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5560,7 +5560,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp cb4e6fc6-caf9-42e9-aea4-b8c71ffba0ac)
-    (at 437.62 130.38875)
+    (at 80.16875 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5847,7 +5847,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp d4600a7f-1d17-4d50-9958-d5c83b117edc)
-    (at 581.12625 111.77625)
+    (at 110.33125 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -6183,7 +6183,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp e150d6b1-9b5d-48a0-87d1-c1edfa681c6f)
-    (at 481.9 69.78875)
+    (at 230.98125 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -6682,7 +6682,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp ef8084f4-ab59-4454-88f4-c48221aa582d)
-    (at 560.92625 91.57625)
+    (at 155.575 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
