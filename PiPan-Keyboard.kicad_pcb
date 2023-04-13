@@ -319,7 +319,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 0a14b364-c7eb-48de-8ee5-e23df9575b8d)
-    (at 567.715 224.63125)
+    (at 567.21375 230.1875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -456,7 +456,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 0d9dcc78-c862-49fd-b060-e0337bbbb783)
-    (at 559.695 165.37625)
+    (at 542.6075 169.8625)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -704,7 +704,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 14386cab-4bf3-4119-894d-264885ca725b)
-    (at 489.4775 214.96375)
+    (at 476.72625 224.63125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -766,7 +766,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 17ba9f54-1721-4210-b799-0bd0be0aee67)
-    (at 581.025 221.08125)
+    (at 597.37625 222.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -828,7 +828,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 17fec3ea-ff81-456c-ac7a-5ff7cd655ed8)
-    (at 522.3 69.78875)
+    (at 246.0625 93.6625)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -903,7 +903,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 188ec694-128e-4011-ad1e-2a24c6581f71)
-    (at 581.025 224.63125)
+    (at 582.295 229.39375)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1027,7 +1027,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 1be96f38-71b6-4666-8e48-018b1143d249)
-    (at 432.36375 155.84375)
+    (at 215.9 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1177,7 +1177,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 1deb8502-3cef-4889-8a79-19dd96ca5edd)
-    (at 559.695 168.92625)
+    (at 541.02 176.2125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1676,7 +1676,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 2d3c0f1b-4178-45e7-9f64-359306093130)
-    (at 432.36375 139.69375)
+    (at 200.81875 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1950,7 +1950,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 40c662c8-cd22-4172-b742-50ef5ed3582c)
-    (at 478.02 110.18875)
+    (at 80.16875 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -2100,7 +2100,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 46ce158b-ddc3-499c-8f2c-a7c08c571e63)
-    (at 414.73375 139.69375)
+    (at 246.0625 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -2175,7 +2175,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 47d6735b-1f1c-43dc-9b97-3d1de5b7c426)
-    (at 559.695 161.82625)
+    (at 541.81375 162.71875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -2312,7 +2312,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 4e23a342-c7b1-4706-8ff1-e24fdb45bb91)
-    (at 559.695 135.67625)
+    (at 511.65125 138.1125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -2374,7 +2374,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 5055758e-e91d-4cfd-a700-be3f370a8052)
-    (at 414.73375 155.84375)
+    (at 230.98125 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -2659,7 +2659,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2f888d1-d9fe-42c6-9a67-34a983888be4)
     )
-    (fp_text value "D_Small" (at 16.4775 33.50375) (layer "F.Fab")
+    (fp_text value "D_Small" (at 4.91125 2.52375) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4d591c74-5249-4670-a4d3-6f131d71125c)
     )
@@ -2805,7 +2805,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 67d1d885-cfc5-4332-8a29-fad46f7cb8fc)
-    (at 583.89875 199.34125)
+    (at 598.96375 198.4375)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3464,7 +3464,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 70ea910a-22f2-431f-b306-b87b84195c55)
-    (at 516.0975 214.85375)
+    (at 509.27 224.63125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3526,7 +3526,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 711a64d7-5b52-4b01-be3b-ad0d3336d3a5)
-    (at 559.695 146.32625)
+    (at 510.06375 167.48125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3663,7 +3663,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 7bacabe9-fa4e-46c0-8caf-d3ea8d472f78)
-    (at 566.9125 201.7225)
+    (at 74.295 69.05625)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3674,7 +3674,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2ba1f8e0-86a3-42af-883e-26392c5c56c9)
     )
-    (fp_text value "D_Small" (at 22.05 54.65875) (layer "F.Fab")
+    (fp_text value "D_Small" (at 5.08 2.38125) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp db0a2cba-62ca-40e1-b50f-1b93d97b347a)
     )
@@ -3682,7 +3682,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c31c08b0-ed4d-4c2c-9f78-05f60f95d201)
     )
-    (fp_text user "${REFERENCE}" (at -49.3875 45.9275) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 5.87375 0) (layer "F.Fab")
       (effects (font (size 0.8 0.8) (thickness 0.12)))
       (tstamp 0cb62d1f-5e9c-412d-88f2-7853ef2833b4)
     )
@@ -3787,7 +3787,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 7e0b99fd-fcc9-4056-9f6f-978e9040814c)
-    (at 518.42 110.18875)
+    (at 170.65625 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3999,7 +3999,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 8414ba2a-f0e1-47af-8323-bfe26f2606d2)
-    (at 476.1675 214.96375)
+    (at 460.85125 224.63125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4061,7 +4061,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 88678e9f-2318-4dce-b38f-649f30004d53)
-    (at 583.89875 192.24125)
+    (at 598.17 184.94375)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4273,7 +4273,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 92592370-6463-4fc8-b2c8-0ff7263198d3)
-    (at 560.92625 111.77625)
+    (at 95.25 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4348,7 +4348,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 9345b74e-bc68-48f2-bdc1-1f8f63b4f30b)
-    (at 583.89875 195.79125)
+    (at 598.17 192.0875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4410,7 +4410,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 948a1ebc-716b-4fbf-8323-95c61abc8e49)
-    (at 559.695 149.87625)
+    (at 542.6075 152.4)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4547,7 +4547,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 96476cf2-26d8-480c-ab3d-0b856512d111)
-    (at 529.4075 214.85375)
+    (at 183.8325 40.48125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4733,7 +4733,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp 9e810927-46b9-417b-b403-249eec088ace)
-    (at 478.02 150.58875)
+    (at 140.49375 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -4808,14 +4808,14 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 9f0c886f-f86f-4829-afa3-44cf60218fa9)
-    (at 590.725 209.66)
+    (at 510.06375 160.3375)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d365d6a1-90b1-46eb-9bef-787d61ee0082")
     (attr through_hole)
-    (fp_text reference "D16" (at -22.66625 35.57) (layer "F.SilkS")
+    (fp_text reference "D16" (at 5.08 -2.38125) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 13c3182f-208d-4136-9c9f-14037a20ac15)
     )
@@ -4823,15 +4823,15 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 676d80f7-8949-4142-9f27-2545d3e33239)
     )
-    (fp_text user "K" (at -27.74625 35.89) (layer "F.SilkS")
+    (fp_text user "K" (at -0.47625 -2.38125) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 807d6cbb-5e9c-4c61-a65c-259c7685087b)
     )
-    (fp_text user "${REFERENCE}" (at -22.36625 37.69) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 5.87375 0) (layer "F.Fab")
       (effects (font (size 0.8 0.8) (thickness 0.12)))
       (tstamp 5457d912-ea20-4b0f-8092-7bde4fd8ba2a)
     )
-    (fp_text user "K" (at -27.74625 35.89) (layer "F.Fab")
+    (fp_text user "K" (at -0.47625 -2.38125) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bcdef275-46d7-4e35-8363-7bd3b9fcd3ad)
     )
@@ -5219,7 +5219,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp a6dc9105-d0e1-42e8-9a8a-74eea2e30238)
-    (at 502.7875 214.85375)
+    (at 494.18875 224.63125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5281,7 +5281,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp b11d43bc-fb84-4409-963b-b7a83ae3c3a2)
-    (at 543.02625 51.45125)
+    (at 125.4125 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5480,7 +5480,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp bb90cdb1-18f5-4a6b-bed4-4f705e5428ee)
-    (at 498.22 89.98875)
+    (at 185.7375 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -5851,7 +5851,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp c253b69f-c414-4719-ab17-7a993348ad0c)
-    (at 481.9 49.58875)
+    (at 110.33125 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -6200,7 +6200,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp cbf188cc-146b-4f32-b9d3-96f669e83d8d)
-    (at 567.70625 195.3725)
+    (at 596.5825 177.00625)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -6624,7 +6624,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp d7942ed6-c03b-4dfc-b75b-dd1789f4e0ec)
-    (at 573.005 135.67625)
+    (at 560.86375 141.2875)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -7035,7 +7035,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp ec632591-51f9-4ebe-93cc-8ffc53c5f5b2)
-    (at 462.8575 214.96375)
+    (at 445.77 224.63125)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -7172,7 +7172,7 @@
 
   (footprint "keyswitches:Kailh_socket_MX" (layer "F.Cu")
     (tedit 5DD4FB17) (tstamp ed985bcf-146a-48ce-b919-b8837e0a3be1)
-    (at 502.1 69.78875)
+    (at 155.575 108.74375)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags "MX,cherry,gateron,kailh,pg1511,socket")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -7322,7 +7322,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp f185557e-49de-4896-b3bd-8279400a43bd)
-    (at 559.695 142.77625)
+    (at 511.65125 152.4)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -7384,7 +7384,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp f666f688-9c31-4d76-9b09-4589a244df1f)
-    (at 559.695 139.22625)
+    (at 511.65125 145.25625)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
