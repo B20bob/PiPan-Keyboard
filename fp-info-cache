@@ -1,4 +1,4 @@
-20638855396875687
+20640537180062021
 Alps_Only
 ALPS-1.5U
 
@@ -86983,6 +86983,13 @@ varistor SIOV
 2
 keyswitches
 Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX-Outlined
 MX-style keyswitch with Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
