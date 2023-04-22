@@ -1772,7 +1772,7 @@
 
   (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" (layer "F.Cu")
     (tedit 5A74C8CB) (tstamp 6b841f9c-8802-4ace-b353-cbefa09dedb3)
-    (at 37.2 126.0875)
+    (at 37.6125 126.0875)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1838,7 +1838,7 @@
 
   (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (layer "F.Cu")
     (tedit 6224DF39) (tstamp 6ecc0f5f-34b8-43cb-b04f-f458fcb0609a)
-    (at 44.45 88.9)
+    (at 44.45 87.3125)
     (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x20 2.54mm double row")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -3400,7 +3400,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 5A19A434) (tstamp be247580-4d11-4fe4-9723-70edfc20e10d)
-    (at 27.80625 73.50125)
+    (at 29.36875 72.86625)
     (descr "Through hole straight socket strip, 1x14, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x14 2.54mm single row")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -7692,13 +7692,13 @@
     )
   )
 
-  (gr_line (start 286.54375 61.11875) (end 25.4 61.11875) (layer "Edge.Cuts") (width 0.1) (tstamp 037d7b56-5441-4a6d-8232-c3faaba95c91))
-  (gr_arc (start 25.4 137.31875) (mid 24.838749 137.086251) (end 24.60625 136.525) (layer "Edge.Cuts") (width 0.1) (tstamp 399fffa2-cae3-4760-be3e-ab51eb03cc33))
-  (gr_arc (start 24.60625 61.9125) (mid 24.838731 61.351216) (end 25.4 61.11875) (layer "Edge.Cuts") (width 0.1) (tstamp 4b5c72fd-ed94-46e2-b785-465d6ed5084b))
-  (gr_line (start 24.60625 136.525) (end 24.60625 61.9125) (layer "Edge.Cuts") (width 0.1) (tstamp 780cd748-4352-471c-9210-aa221e64151c))
+  (gr_arc (start 27.78125 137.31875) (mid 27.220013 137.086237) (end 26.9875 136.525) (layer "Edge.Cuts") (width 0.1) (tstamp 399fffa2-cae3-4760-be3e-ab51eb03cc33))
+  (gr_arc (start 26.9875 61.9125) (mid 27.219984 61.351234) (end 27.78125 61.11875) (layer "Edge.Cuts") (width 0.1) (tstamp 4b5c72fd-ed94-46e2-b785-465d6ed5084b))
+  (gr_line (start 27.78125 61.11875) (end 286.54375 61.11875) (layer "Edge.Cuts") (width 0.1) (tstamp 6560778c-7a69-4e89-a48a-7ccea57a7315))
+  (gr_line (start 26.9875 136.525) (end 26.9875 61.9125) (layer "Edge.Cuts") (width 0.1) (tstamp 780cd748-4352-471c-9210-aa221e64151c))
   (gr_line (start 287.3375 136.525) (end 287.3375 61.9125) (layer "Edge.Cuts") (width 0.1) (tstamp 797a3a46-7411-46ee-a656-1e6015e011e9))
+  (gr_line (start 286.54375 137.31875) (end 27.78125 137.31875) (layer "Edge.Cuts") (width 0.1) (tstamp a273a4c8-6446-403a-84d9-fe8a2cfafd08))
   (gr_arc (start 286.54375 61.11875) (mid 287.105016 61.351234) (end 287.3375 61.9125) (layer "Edge.Cuts") (width 0.1) (tstamp a6505777-a0db-48d9-9e79-3d2b184f593d))
   (gr_arc (start 287.3375 136.525) (mid 287.104998 137.086234) (end 286.54375 137.31875) (layer "Edge.Cuts") (width 0.1) (tstamp cc8914ad-98ca-4a5a-b28e-f6fd7e18848f))
-  (gr_line (start 286.54375 137.31875) (end 25.4 137.31875) (layer "Edge.Cuts") (width 0.1) (tstamp eebfdeb1-5444-4d6f-a6fc-ccd2dc46720a))
 
 )
