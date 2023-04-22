@@ -1660,7 +1660,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal" (layer "F.Cu")
     (tedit 5A19A424) (tstamp 674a2776-5a88-4742-be54-35af1b9212f6)
-    (at 48.3 114.94375 -90)
+    (at 48.38 115.525 -90)
     (descr "Through hole angled socket strip, 1x04, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole angled socket strip THT 1x04 2.54mm single row")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
