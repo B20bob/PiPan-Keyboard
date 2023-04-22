@@ -413,7 +413,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 19e808fc-32a8-409b-9d0b-569701459691)
-    (at 51.975 120.3325 -90)
+    (at 53.5075 120.3325 -90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
