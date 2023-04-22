@@ -413,7 +413,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal" (layer "F.Cu")
     (tedit 5AE50CD5) (tstamp 19e808fc-32a8-409b-9d0b-569701459691)
-    (at 53.5625 121.12625 -90)
+    (at 51.975 120.3325 -90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
@@ -1834,7 +1834,7 @@
 
   (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" (layer "F.Cu")
     (tedit 5A74C8CB) (tstamp 6b841f9c-8802-4ace-b353-cbefa09dedb3)
-    (at 35.06875 123.70625)
+    (at 33.48125 122.9125)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (property "Sheetfile" "PiPan-Keyboard.kicad_sch")
